@@ -15,7 +15,7 @@ My first ever rust project created with cargo. Just a "hello world" with the "fe
 ferris-says = "0.3.1"
 
 ### Reference(s):
-<a href="https://www.rust-lang.org/pt-BR/learn/get-started">rust-lang.org - Get started</a>
+<p> <a href="https://www.rust-lang.org/pt-BR/learn/get-started">rust-lang.org - Get started</a> </p>
 
 ## 2. csvtutor - 08/03/2024
 <p>
@@ -28,6 +28,6 @@ encoding_rs = "0.8.13"
 encoding_rs_io = "0.1.3"
 
 ### Reference(s):
-<a href="https://docs.rs/csv/latest/csv/index.html">docs.rs - csv package</a>
-<a href="https://docs.rs/csv/latest/csv/tutorial/index.html#setup">docs.rs - csv tutorial setup</a>
-<a href="https://stackoverflow.com/questions/53826986/how-to-read-a-non-utf8-encoded-csv-file">Reading non-UTF-8 encoded CSV</a>
+<p> <a href="https://docs.rs/csv/latest/csv/index.html">docs.rs - csv package</a> </p>
+<p> <a href="https://docs.rs/csv/latest/csv/tutorial/index.html#setup">docs.rs - csv tutorial setup</a> </p>
+<p> </p><a href="https://stackoverflow.com/questions/53826986/how-to-read-a-non-utf8-encoded-csv-file">Reading non-UTF-8 encoded CSV</a> </p>
