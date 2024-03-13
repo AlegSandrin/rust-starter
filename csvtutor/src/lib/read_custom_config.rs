@@ -1,4 +1,4 @@
-use std::{error::Error, io};
+use std::error::Error;
 use crate::utils::utf8_encode as transcoded;
 
 /*
